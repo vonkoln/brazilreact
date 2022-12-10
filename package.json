@@ -1,3 +1,9 @@
+"homepage": "https://vonkoln.github.io/brazilreact/",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+},
+
 {
   "name": "reactseco",
   "version": "0.1.0",
